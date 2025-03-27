@@ -26,6 +26,10 @@ sudo apt install arp-scan
 
 ## Lisans:
 MIT Lisansı
-
+## Örnek Çıktı:
+Ağ taraması sonucunda alınan tipik çıktı:
+192.168.1.1    AA:BB:CC:DD:EE:FF    ASUStek Computer Inc.
+192.168.1.5    44:65:0D:12:3A:EF    Apple, Inc.
+192.168.1.9    2C:F0:5D:AB:CD:EF    Unidentified
 ## Geliştirici:
 **Bayraktar16 - Sancak Muhafızları**
